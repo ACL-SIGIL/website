@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ACL-SIGIL.github.io/website/sitemap.xml
+Sitemap: https://acl-sigil.github.io/website/sitemap.xml
