@@ -1,7 +1,9 @@
 ---
 layout: constitution
 title: constitution
-permalink: /
+nav: true
+nav_order: 1
+permalink: /constitution/
 subtitle: <a href='#'>CONSTITUTION OF THE ACL SPECIAL INTEREST GROUP ON IM-
 AGE AND LANGUAGE (SIGIL)</a>. Address. Contacts. Motto. Etc.
 
