@@ -29,10 +29,5 @@ latest_posts:
 
 This is the official website of the Association for Computational Linguistics (ACL) Special Interest Group on Image and Language (SIGIL). We are a group of researchers who are interested in the intersection of Language, Vision, NLP, and Video (among many other things). We are aimed at fostering and growing this community.
 
-If you are interested in joining, please fill out this form: There's obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved.
+If you are interested in joining, [please add yourself to this google group]((https://groups.google.com/g/acl-sigil/about'>). There's obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved. In that case, please contact one of the officers of the SIG.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
