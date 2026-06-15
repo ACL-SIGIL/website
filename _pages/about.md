@@ -29,5 +29,5 @@ latest_posts:
 
 This is the official website of the Association for Computational Linguistics (ACL) Special Interest Group on Image and Language (SIGIL). We are a group of researchers who are interested in the intersection of Language, Vision, NLP, and Video (among many other things). We are aimed at fostering and growing this community.
 
-If you are interested in joining, [please add yourself to this google group]((https://groups.google.com/g/acl-sigil/about'>). There's obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved. In that case, please contact one of the officers of the SIG.
+If you are interested in joining, [please add yourself to this google group](https://groups.google.com/g/acl-sigil/about). There's obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved. In that case, please contact one of the officers of the SIG.
 
