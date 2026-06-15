@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ACL Special Interest Group on Image and Language
 
 profile:
   align: right
   image: ACL_SIGIL.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>[https://acl-sigil.github.io/website/](https://acl-sigil.github.io/website/)</p>
+    <p>Established August 2025</p>
+    <p>[https://groups.google.com/g/acl-sigil/about](https://groups.google.com/g/acl-sigil/about)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,5 +33,5 @@ If you are interested in joining:
 - [please fill out this form](https://forms.gle/xoBBWSVPbgppWwvT8) to get added to our membership roll.
 - [please add yourself to this google group](https://groups.google.com/g/acl-sigil/about) to receive emails.
 
-There's obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved. In that case, please contact one of the officers of the SIG.
+There's no obligation, nor membership fees. Mainly, you will get the occasional email - unless you want to get more involved. In that case, please contact one of the officers of the SIG.
 
